@@ -1,0 +1,4 @@
+venv
+_image_cap*
+_model*
+__pycache__
